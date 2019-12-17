@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2782" started-at="2019-12-17T17:20:56 GST" finished-at="2019-12-17T17:20:59 GST">
+    <groups>
+    </groups>
+    <test name="E2E Test" duration-ms="2782" started-at="2019-12-17T17:20:56 GST" finished-at="2019-12-17T17:20:59 GST">
+      <class name="com.apiAutomation.APIAutomationFramework.testCases.Test1">
+        <test-method status="PASS" signature="initiate()[pri:0, instance:com.apiAutomation.APIAutomationFramework.testCases.Test1@4b1c1ea0]" name="initiate" is-config="true" duration-ms="11" started-at="2019-12-17T17:20:56 GST" finished-at="2019-12-17T17:20:56 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiate -->
+        <test-method status="PASS" signature="findPlace()[pri:0, instance:com.apiAutomation.APIAutomationFramework.testCases.Test1@4b1c1ea0]" name="findPlace" duration-ms="2753" started-at="2019-12-17T17:20:56 GST" finished-at="2019-12-17T17:20:59 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findPlace -->
+      </class> <!-- com.apiAutomation.APIAutomationFramework.testCases.Test1 -->
+    </test> <!-- E2E Test -->
+  </suite> <!-- Suite -->
+</testng-results>
